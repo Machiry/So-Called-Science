@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `PurS3 Lab`,
+      href: "https://purs3lab.github.io/",
     },
   ],
   // blog setting (required)
